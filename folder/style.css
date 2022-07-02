@@ -1,0 +1,25 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    border-radius: box-size;
+}
+/*table styles*/
+.table{
+width: 100%;
+cursor: pointer;
+box-shadow:1px 1px 2px 2px #d4d0d0;
+margin-top:10px;
+margin-bottom:30px;
+border-collapse: collapse;
+min-width: 1000px;
+caption-side:top
+}
+.table-container{
+    width: 95%;
+    margin:auto;
+    overflow:auto;
+    margin-bottom:100px;
+    max-height: 700px;
+    
+}
